@@ -1,4 +1,4 @@
-# p2-simple-scene-starter
+# p2--- Yuru Camp
 
 Credit: Uni Huang 1585874
 CMPM147 PA2
